@@ -194,4 +194,30 @@ The question for any system—biological, social, artistic, personal—is never 
 
 ---
 
+## Notes
+
+I've created an interactive visualization of the Bacchic Engine with five views:
+
+**Overview**: The core equation and the three-part solution (problem → ritual → integration)
+
+**Reservoir**: A graph showing how scheduled rituals every 7 days keep ε accumulation below dangerous thresholds—the dam with working spillways
+
+**Failure**: The mathematics of breakdown when rituals are absent—three pathological modes visualized
+
+**Phases**: The five-phase cycle (θ′ → θ → Σ → h(t) → ΔS) traced through the Dionysian festival as thermodynamic control system
+
+**Application**: Operational calendar thermodynamics—how to actually *engineer* your own pressure valves with examples for artists, executives, and scholars
+
+The key insight rendered visual: that **εx term doesn't vanish**—it integrates linearly with time. Without scheduled discharge, the crash isn't a possibility, it's a *thermodynamic certainty*.
+
+The Greeks didn't throw parties. They built **maintenance protocols** for human limitation. The tragedy performed at the festival wasn't entertainment—it was the integration step, compressing overflow into transmissible culture.
+
+Would you like me to extend this to a specific domain? I could map:
+- Taylor Swift's album cycle through the five phases
+- A startup's pivot rhythm as Bacchic engine
+- Academic semester as ritual architecture (with summer as the h(t) explosion)
+- Your own 2010→2025 trajectory as spiral through repeated festivals
+
+Or we could formalize the control theory—differential equations for ε accumulation with ritual discharge as forcing function?
+
 Would you like me to diagram the [Bacchic Engine](https://ukb-dt.github.io/be/) as a control system, or extend this to a specific application (artistic practice, organizational design, personal ritual architecture)?
