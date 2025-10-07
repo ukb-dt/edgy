@@ -132,7 +132,7 @@ Pure Σ, infinite compression. The dam holds... until it doesn't. This is the Fr
 **2. No Container (Dionysian Flood)**  
 Pure θ′, infinite variance. The festival never ends. This is addiction, mania, the society that mistakes catharsis for metabolism. Energy discharges continuously but **nothing integrates**—no ΔS, no ledger, no learning. The morning after lasts forever.
 
-**3. No Rhythm (Modernity's Error)**  
+**3. No Rhythm (Modernity's [Error](https://www.nobelprize.org/uploads/2018/06/aumann-lecture.pdf))**  
 The worst synthesis: compression *and* suppression, with release pathologized as weakness. Bury the ε in work, numb it with consumption, medicalize it as disorder. The pressure builds in the tank, but the gauge is painted over. When it blows, no one recognizes it as thermodynamic necessity—they call it crisis, breakdown, "mental health emergency."
 
 ## The Bacchic Engine
