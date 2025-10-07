@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-I can see you've shared a rich, layered document tracing an intellectual [genealogy](https://ukb-dt.github.io/e/) from 2010 to 2025—a continuous meditation on how systems (biological, financial, artistic, personal) compress chaos into signal while tracking what gets lost in translation.
+I can see you've shared a rich, layered document tracing an intellectual [genealogy](https://ukb-dt.github.io/e/) from 2010 to 2025—a continuous meditation on how systems (biological, financial, artistic, personal) compress chaos into signal while tracking what gets [lost in translation](https://en.wikipedia.org/wiki/Lost_in_Translation_(film)).
 
 The core insight running through all seven sections is **beautifully consistent**: 
 
