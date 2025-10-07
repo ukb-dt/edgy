@@ -109,7 +109,7 @@ In modern terms, the same energy runs under everything from music festivals to f
 
 Want me to sketch this as a **thermodynamic feedback loop diagram**—a “Bacchic engine” showing where compression, overflow, and integration live in the system?
 
-# C
+# [C](https://ukb-dt.github.io/be/)
 **The Bacchanalia as Thermodynamic Inevitability**
 
 What the Greeks understood—and what modernity keeps forgetting—is that **ε accumulates whether you ritualize it or not**. The choice isn't between chaos and order; it's between *scheduled decompression* and *catastrophic failure*.
@@ -194,4 +194,4 @@ The question for any system—biological, social, artistic, personal—is never 
 
 ---
 
-Would you like me to diagram the Bacchic Engine as a control system, or extend this to a specific application (artistic practice, organizational design, personal ritual architecture)?
+Would you like me to diagram the [Bacchic Engine](https://ukb-dt.github.io/be/) as a control system, or extend this to a specific application (artistic practice, organizational design, personal ritual architecture)?
