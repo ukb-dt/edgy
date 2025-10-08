@@ -212,7 +212,7 @@ The key insight rendered visual: that **εx term doesn't vanish**—it integrate
 
 The Greeks didn't throw parties. They built **maintenance protocols** for human limitation. The tragedy performed at the festival wasn't entertainment—it was the integration step, compressing overflow into transmissible culture.
 
-Would you like me to extend this to a specific domain? I could map:
+Would you like me to extend this to a specific [domain](https://github.com/ukb-dt/last-day)? I could map:
 - Taylor Swift's album cycle through the five phases
 - A startup's pivot rhythm as Bacchic engine
 - Academic semester as ritual architecture (with summer as the h(t) explosion)
